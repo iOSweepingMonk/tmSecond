@@ -1,0 +1,6 @@
+framework module tmSecond {
+  umbrella header "tmSecond-umbrella.h"
+
+  export *
+  module * { export * }
+}

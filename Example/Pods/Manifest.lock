@@ -1,0 +1,16 @@
+PODS:
+  - tmSecond (0.1.0)
+
+DEPENDENCIES:
+  - tmSecond (from `../`)
+
+EXTERNAL SOURCES:
+  tmSecond:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  tmSecond: dd0ede953719c4298a22c127002340b860860880
+
+PODFILE CHECKSUM: 26579766b2614915000900c1cd253d2c966eb49b
+
+COCOAPODS: 1.5.0

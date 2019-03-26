@@ -7,7 +7,7 @@
 //
 
 #import "HNViewController.h"
-
+#import "FirstViewController.h"
 @interface HNViewController ()
 
 @end
@@ -26,4 +26,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
+{
+    FirstViewController *vc =[[FirstViewController alloc]init];
+    [self presentViewController:vc animated:YES completion:nil];
+}
 @end
