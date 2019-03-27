@@ -30,8 +30,12 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
+  if ENV['CCDemoLib_Source'] || ENV['AllLib_Source']
   s.source_files = 'tmSecond/Classes/**/*'
-  
+  end
+  else
+  s.vendored_frameworks = 'tmSecond/Products/secondBinary.framework'
+  end
   # s.resource_bundles = {
   #   'tmSecond' => ['tmSecond/Assets/*.png']
   # }

@@ -14,6 +14,7 @@
 #import "FourViewController.h"
 #import "SecondViewController.h"
 #import "ThreeViewController.h"
+#import "CTMediator.h"
 
 FOUNDATION_EXPORT double tmSecondVersionNumber;
 FOUNDATION_EXPORT const unsigned char tmSecondVersionString[];

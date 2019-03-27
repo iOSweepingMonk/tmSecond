@@ -7,24 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		36E3DBA9AF432A14D5057FA595F69597 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = EFF4A9CC74144B947927EBD96AFA08BF /* ReplaceMe.m */; };
-		42A2D9EE29D0F160A8CFE6A1C08D88F6 /* ThreeViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E6EC5EB7508349461448421F35E34EE /* ThreeViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		47C9E4A18CC94CFB8F8067145940DD1A /* tmSecond-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D0E17373548D23619FF230472CA48E2A /* tmSecond-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5576C81B836A77326FE6AF8C8F46E919 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 197546D7CDEF61BE339C73EFDDDAB25F /* SecondViewController.m */; };
+		20A6B21E913122885BC85C8874D55CE4 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DC859D91C63B7EA0CF9F19497972B2A /* SecondViewController.m */; };
+		243186D5D31CA7676F991E4B7B0AA4E4 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = C626B167B726F2462CE343D210F20E94 /* ReplaceMe.m */; };
+		31CA75982B7DC7DB3B4BAC36A14FC997 /* tmSecond-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F57B21931FCD76D9B00E2B3FD81310E6 /* tmSecond-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4D6A355942AF8B3C730E50BC9F6E8642 /* FourViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 58799ED0FF5A99DE7E1A883B449318E5 /* FourViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		59DFD6534F98157835620BFEBE32A583 /* Pods-tmSecond_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3775B2C3A0ABBCEADBB8CB9C9F99C983 /* Pods-tmSecond_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5D60D4671966F732FEEC0BA28145BBC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		673C02F15A5576135454E2ACE4ED96A1 /* SecondViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E7F5EFD0D36A8A39CF30F1131D7B1E9 /* SecondViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		73523AF7F0AD3F3A2406EFAFFD4273DA /* Pods-tmSecond_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 386AEC2A48BB7574F31321E37B87B649 /* Pods-tmSecond_Tests-dummy.m */; };
-		76E8AA3E4843FA6B5C228C8F30DF0B42 /* SecondViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 6243B714AF374E6D5AB111F9DF3FEE13 /* SecondViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7BEF6DD17605DFBBD7A8F591282034B5 /* ThreeViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E1419427B0FED2176A7D26E53D846A2 /* ThreeViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7E62D37CEA98813F014E05211AA4279F /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D01782F21D6CBD78C7B8EB46A47DA77 /* FirstViewController.m */; };
 		8081F31276941533199C8F4D7612EC3E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		93D0CC57CA92CE1EC996FA706CF5D322 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		AE88FE56C2C053990805A57D65858582 /* FirstViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = AC874CFA797D6FD2CFF5B78A9CCBFA70 /* FirstViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B365B8FEB1D547EC1A4C1FBE09B7005F /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A26C8C63DD839AC76065F7E248F82BC /* FirstViewController.m */; };
+		9E1F92C2B4B40AC12FB7EB3CE7ED381A /* FirstViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E62F73D6467FCD712D7EC7354781850 /* FirstViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A32707E394523828C11AF1431F2CF830 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C9F57DF11D4EFB35B2C6C217F377A4 /* ThreeViewController.m */; };
 		C39188108B7C2788927328A9332F6F5E /* Pods-tmSecond_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D6810773AF69ECF08F1A8F3B82A10D22 /* Pods-tmSecond_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D3A96D5AB19D6C5E40F845D1784335D3 /* tmSecond-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 595CD1A97136583CE72B6D24901C0FEA /* tmSecond-dummy.m */; };
-		DB96667954F239E1E98DC7BD7CBD880E /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C787FDAE9B32AA8BF85B0A8847D65D8 /* FourViewController.m */; };
+		CA140007CDBE8B3EA73FE530123B2A39 /* CTMediator.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C7E218BC7577A1C50E8C01C4733FC64 /* CTMediator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D6AD4B0A2F2747DCFDC86D8E63D63481 /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E563B3C7A8670868E88773892F75B07 /* FourViewController.m */; };
 		DD61C1A7774D567699B8A453F978762D /* Pods-tmSecond_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CCD8C55BEDF72E245DE9FE5F1A11949B /* Pods-tmSecond_Example-dummy.m */; };
-		F304F53F464C21C34DFE67E46268CDDA /* FourViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B0B1D6EDA0A329B4C6F2AC138A406B8 /* FourViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F3A81E622C26C823A1990F90807F6357 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BBBE790289F0AF4D22B76FF1F1F31EDB /* ThreeViewController.m */; };
+		F1C4A0EFE52977DA446B96D1E730DEC6 /* tmSecond-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7317D2DCEFFEE7A231259425E86010DC /* tmSecond-dummy.m */; };
+		F618E0DBBD14251D347323DFEE32FA28 /* CTMediator.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E3E9E3E4EDF18487E497E583B4F0DC /* CTMediator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,48 +48,50 @@
 
 /* Begin PBXFileReference section */
 		05564B7D4D84CCE20BC4C2109EB63CBD /* Pods-tmSecond_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tmSecond_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		0A26C8C63DD839AC76065F7E248F82BC /* FirstViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
-		0F56F6257CD3E99E6DF9D4CBBAEAFFFE /* tmSecond.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = tmSecond.modulemap; sourceTree = "<group>"; };
-		197546D7CDEF61BE339C73EFDDDAB25F /* SecondViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		18C9F57DF11D4EFB35B2C6C217F377A4 /* ThreeViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
+		1D01782F21D6CBD78C7B8EB46A47DA77 /* FirstViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		289406216E41FC2AF22A4C20BC12398D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		2CC43B2DE06A0F179D33D3E19A0EADC6 /* Pods-tmSecond_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-tmSecond_Example-resources.sh"; sourceTree = "<group>"; };
 		3775B2C3A0ABBCEADBB8CB9C9F99C983 /* Pods-tmSecond_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-tmSecond_Example-umbrella.h"; sourceTree = "<group>"; };
 		386AEC2A48BB7574F31321E37B87B649 /* Pods-tmSecond_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-tmSecond_Tests-dummy.m"; sourceTree = "<group>"; };
-		46771A98E200A2A970A318F26207BF81 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4C787FDAE9B32AA8BF85B0A8847D65D8 /* FourViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FourViewController.m; sourceTree = "<group>"; };
-		4E6EC5EB7508349461448421F35E34EE /* ThreeViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
-		595CD1A97136583CE72B6D24901C0FEA /* tmSecond-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "tmSecond-dummy.m"; sourceTree = "<group>"; };
+		45E3E9E3E4EDF18487E497E583B4F0DC /* CTMediator.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = CTMediator.m; sourceTree = "<group>"; };
+		4E7F5EFD0D36A8A39CF30F1131D7B1E9 /* SecondViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		541E37BDF711E313E70E4E08D0AAAFB1 /* tmSecond.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = tmSecond.modulemap; sourceTree = "<group>"; };
+		58799ED0FF5A99DE7E1A883B449318E5 /* FourViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FourViewController.h; sourceTree = "<group>"; };
 		5A6CCFE4CC15179AD666C7211786F4E3 /* Pods-tmSecond_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tmSecond_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		5DEE4B2E5C2A708316E34DBDFA3537E1 /* tmSecond-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "tmSecond-prefix.pch"; sourceTree = "<group>"; };
+		5E563B3C7A8670868E88773892F75B07 /* FourViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FourViewController.m; sourceTree = "<group>"; };
 		607B108759B44ADAD281BDBAC9835F67 /* Pods-tmSecond_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-tmSecond_Tests-resources.sh"; sourceTree = "<group>"; };
 		60E22DA0BFC91822E8ACB7ECA2103EE6 /* Pods_tmSecond_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_tmSecond_Tests.framework; path = "Pods-tmSecond_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6243B714AF374E6D5AB111F9DF3FEE13 /* SecondViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		667F8E0E71D9CF408C6D427BADFC9C76 /* Pods-tmSecond_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-tmSecond_Example.modulemap"; sourceTree = "<group>"; };
 		679C3C27F8E5FFBA1B8D4995BE53C545 /* Pods-tmSecond_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-tmSecond_Example-frameworks.sh"; sourceTree = "<group>"; };
-		6B0B1D6EDA0A329B4C6F2AC138A406B8 /* FourViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FourViewController.h; sourceTree = "<group>"; };
-		7534C450370877B8AB66DBA1B3C3C474 /* tmSecond.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = tmSecond.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		6E62F73D6467FCD712D7EC7354781850 /* FirstViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		7317D2DCEFFEE7A231259425E86010DC /* tmSecond-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "tmSecond-dummy.m"; sourceTree = "<group>"; };
 		762D9D346F597FCDA291CD138E9CFFE5 /* Pods-tmSecond_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tmSecond_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		78D44BDA9B3C1E9D2EEE4E130BDB5B43 /* tmSecond.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = tmSecond.xcconfig; sourceTree = "<group>"; };
 		7ECEF9B17435E89D33A98A97299755C3 /* Pods-tmSecond_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-tmSecond_Tests.modulemap"; sourceTree = "<group>"; };
 		84E67EF1277AD09826B07381EB258476 /* tmSecond.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = tmSecond.framework; path = tmSecond.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C7E218BC7577A1C50E8C01C4733FC64 /* CTMediator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CTMediator.h; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9614F74EEB48514CC3265638B5DE3F34 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		981C9304F86E4BD0FC235F098ED49C9C /* tmSecond.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = tmSecond.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9C16F1AC77314A9C06EF60ED54F477EB /* Pods-tmSecond_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tmSecond_Example.release.xcconfig"; sourceTree = "<group>"; };
+		9DC859D91C63B7EA0CF9F19497972B2A /* SecondViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		9E1419427B0FED2176A7D26E53D846A2 /* ThreeViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
 		A9C955F6924B52F90B51DF4D236B6ADA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA671B0EA4BD31094AD86C44580F959B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AC874CFA797D6FD2CFF5B78A9CCBFA70 /* FirstViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		BB770DF803AB634802329BA80CF04A0D /* tmSecond-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "tmSecond-prefix.pch"; sourceTree = "<group>"; };
-		BBBE790289F0AF4D22B76FF1F1F31EDB /* ThreeViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
 		BF31CDF2FAB27F0208A29B6D286F83B5 /* Pods-tmSecond_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-tmSecond_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C3AA32A4FCAE3DCB1D2103D757AAB524 /* Pods-tmSecond_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-tmSecond_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		C66128D43E1977A80DC1DEBDDCAF8BDE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		C4D796EA800CE77D2FF87C0B81C003CD /* tmSecond.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = tmSecond.xcconfig; sourceTree = "<group>"; };
+		C626B167B726F2462CE343D210F20E94 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = tmSecond/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		CA864139053BB35390BE119B33B4FF42 /* Pods-tmSecond_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-tmSecond_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		CCD8C55BEDF72E245DE9FE5F1A11949B /* Pods-tmSecond_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-tmSecond_Example-dummy.m"; sourceTree = "<group>"; };
-		D0E17373548D23619FF230472CA48E2A /* tmSecond-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "tmSecond-umbrella.h"; sourceTree = "<group>"; };
+		D041CC5B33BB2E46DF388207E72D4155 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		D6810773AF69ECF08F1A8F3B82A10D22 /* Pods-tmSecond_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-tmSecond_Tests-umbrella.h"; sourceTree = "<group>"; };
 		D9C84560A4DB4370BFED414A7D2D822B /* Pods-tmSecond_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-tmSecond_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		DC6306E6897CA75FAAA25F03BA66C5CC /* Pods-tmSecond_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-tmSecond_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		E04DF58C4C4F1E4994DE7E0A93D095E8 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E3982CB3EE92BA5B6EDD5E9DDEAC3A7B /* Pods_tmSecond_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_tmSecond_Example.framework; path = "Pods-tmSecond_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EFF4A9CC74144B947927EBD96AFA08BF /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = tmSecond/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		F57B21931FCD76D9B00E2B3FD81310E6 /* tmSecond-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "tmSecond-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,18 +122,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		022A62C2E947FD87BDDABA68D2391E7D /* Support Files */ = {
+		12184A3FF76132C2EFFD9C7BB83005B6 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				46771A98E200A2A970A318F26207BF81 /* Info.plist */,
-				0F56F6257CD3E99E6DF9D4CBBAEAFFFE /* tmSecond.modulemap */,
-				78D44BDA9B3C1E9D2EEE4E130BDB5B43 /* tmSecond.xcconfig */,
-				595CD1A97136583CE72B6D24901C0FEA /* tmSecond-dummy.m */,
-				BB770DF803AB634802329BA80CF04A0D /* tmSecond-prefix.pch */,
-				D0E17373548D23619FF230472CA48E2A /* tmSecond-umbrella.h */,
+				289406216E41FC2AF22A4C20BC12398D /* LICENSE */,
+				D041CC5B33BB2E46DF388207E72D4155 /* README.md */,
+				981C9304F86E4BD0FC235F098ED49C9C /* tmSecond.podspec */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/tmSecond";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		1B9217F404AF4344F4774E70AD08BE9B /* Products */ = {
@@ -142,30 +142,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3AE5B7F8B99639BB28EB202D653D4E14 /* Controller */ = {
+		3102864298651FF004AD544E83024B91 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				AC874CFA797D6FD2CFF5B78A9CCBFA70 /* FirstViewController.h */,
-				0A26C8C63DD839AC76065F7E248F82BC /* FirstViewController.m */,
-				6B0B1D6EDA0A329B4C6F2AC138A406B8 /* FourViewController.h */,
-				4C787FDAE9B32AA8BF85B0A8847D65D8 /* FourViewController.m */,
-				6243B714AF374E6D5AB111F9DF3FEE13 /* SecondViewController.h */,
-				197546D7CDEF61BE339C73EFDDDAB25F /* SecondViewController.m */,
-				4E6EC5EB7508349461448421F35E34EE /* ThreeViewController.h */,
-				BBBE790289F0AF4D22B76FF1F1F31EDB /* ThreeViewController.m */,
+				5EC83F3A77804B523D75B7ACD4892993 /* tmSecond */,
 			);
-			name = Controller;
-			path = tmSecond/Classes/Controller;
-			sourceTree = "<group>";
-		};
-		3E7D891B2682D8A212B09E8B369D8414 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				9614F74EEB48514CC3265638B5DE3F34 /* LICENSE */,
-				C66128D43E1977A80DC1DEBDDCAF8BDE /* README.md */,
-				7534C450370877B8AB66DBA1B3C3C474 /* tmSecond.podspec */,
-			);
-			name = Pod;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		47E0345AAC487E4B11800E2DED688309 /* Targets Support Files */ = {
@@ -177,35 +159,38 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		7DB346D0F39D3F0E887471402A8071AB = {
+		5EC83F3A77804B523D75B7ACD4892993 /* tmSecond */ = {
 			isa = PBXGroup;
 			children = (
-				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				9D080FC8D9011DFBE2D56052CFEF68D4 /* Development Pods */,
-				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				1B9217F404AF4344F4774E70AD08BE9B /* Products */,
-				47E0345AAC487E4B11800E2DED688309 /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		7F55572DFCC0401F4BFA1582202F6A81 /* tmSecond */ = {
-			isa = PBXGroup;
-			children = (
-				EFF4A9CC74144B947927EBD96AFA08BF /* ReplaceMe.m */,
-				3AE5B7F8B99639BB28EB202D653D4E14 /* Controller */,
-				3E7D891B2682D8A212B09E8B369D8414 /* Pod */,
-				022A62C2E947FD87BDDABA68D2391E7D /* Support Files */,
+				C626B167B726F2462CE343D210F20E94 /* ReplaceMe.m */,
+				EE8321EB899D062000720214BE89FE83 /* Controller */,
+				791BE162FB2FE236B47F17D3D46DD233 /* CTMediator */,
+				12184A3FF76132C2EFFD9C7BB83005B6 /* Pod */,
+				FC1ADC4D50B420F15424E3CE259F8922 /* Support Files */,
 			);
 			name = tmSecond;
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		9D080FC8D9011DFBE2D56052CFEF68D4 /* Development Pods */ = {
+		791BE162FB2FE236B47F17D3D46DD233 /* CTMediator */ = {
 			isa = PBXGroup;
 			children = (
-				7F55572DFCC0401F4BFA1582202F6A81 /* tmSecond */,
+				8C7E218BC7577A1C50E8C01C4733FC64 /* CTMediator.h */,
+				45E3E9E3E4EDF18487E497E583B4F0DC /* CTMediator.m */,
 			);
-			name = "Development Pods";
+			name = CTMediator;
+			path = tmSecond/Classes/CTMediator;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				3102864298651FF004AD544E83024B91 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				1B9217F404AF4344F4774E70AD08BE9B /* Products */,
+				47E0345AAC487E4B11800E2DED688309 /* Targets Support Files */,
+			);
 			sourceTree = "<group>";
 		};
 		B1D3490CE4FCEB8F321EC3D5D3F8D54D /* Pods-tmSecond_Tests */ = {
@@ -242,6 +227,22 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		EE8321EB899D062000720214BE89FE83 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				6E62F73D6467FCD712D7EC7354781850 /* FirstViewController.h */,
+				1D01782F21D6CBD78C7B8EB46A47DA77 /* FirstViewController.m */,
+				58799ED0FF5A99DE7E1A883B449318E5 /* FourViewController.h */,
+				5E563B3C7A8670868E88773892F75B07 /* FourViewController.m */,
+				4E7F5EFD0D36A8A39CF30F1131D7B1E9 /* SecondViewController.h */,
+				9DC859D91C63B7EA0CF9F19497972B2A /* SecondViewController.m */,
+				9E1419427B0FED2176A7D26E53D846A2 /* ThreeViewController.h */,
+				18C9F57DF11D4EFB35B2C6C217F377A4 /* ThreeViewController.m */,
+			);
+			name = Controller;
+			path = tmSecond/Classes/Controller;
+			sourceTree = "<group>";
+		};
 		F8F24886F67D6B965A839DCFFC528522 /* Pods-tmSecond_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -260,6 +261,20 @@
 			path = "Target Support Files/Pods-tmSecond_Example";
 			sourceTree = "<group>";
 		};
+		FC1ADC4D50B420F15424E3CE259F8922 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				E04DF58C4C4F1E4994DE7E0A93D095E8 /* Info.plist */,
+				541E37BDF711E313E70E4E08D0AAAFB1 /* tmSecond.modulemap */,
+				C4D796EA800CE77D2FF87C0B81C003CD /* tmSecond.xcconfig */,
+				7317D2DCEFFEE7A231259425E86010DC /* tmSecond-dummy.m */,
+				5DEE4B2E5C2A708316E34DBDFA3537E1 /* tmSecond-prefix.pch */,
+				F57B21931FCD76D9B00E2B3FD81310E6 /* tmSecond-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/tmSecond";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -271,15 +286,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3F2BD5CA6A9DCF8FBD0C5511DD23FECA /* Headers */ = {
+		573A93D20013A260F702269B2558B59B /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE88FE56C2C053990805A57D65858582 /* FirstViewController.h in Headers */,
-				F304F53F464C21C34DFE67E46268CDDA /* FourViewController.h in Headers */,
-				76E8AA3E4843FA6B5C228C8F30DF0B42 /* SecondViewController.h in Headers */,
-				42A2D9EE29D0F160A8CFE6A1C08D88F6 /* ThreeViewController.h in Headers */,
-				47C9E4A18CC94CFB8F8067145940DD1A /* tmSecond-umbrella.h in Headers */,
+				CA140007CDBE8B3EA73FE530123B2A39 /* CTMediator.h in Headers */,
+				9E1F92C2B4B40AC12FB7EB3CE7ED381A /* FirstViewController.h in Headers */,
+				4D6A355942AF8B3C730E50BC9F6E8642 /* FourViewController.h in Headers */,
+				673C02F15A5576135454E2ACE4ED96A1 /* SecondViewController.h in Headers */,
+				7BEF6DD17605DFBBD7A8F591282034B5 /* ThreeViewController.h in Headers */,
+				31CA75982B7DC7DB3B4BAC36A14FC997 /* tmSecond-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,9 +332,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0857472A5E2C1FB490C1B708DBECAB98 /* Build configuration list for PBXNativeTarget "tmSecond" */;
 			buildPhases = (
-				00E7A3CDF4CB44E424C0B254AD810CA7 /* Sources */,
+				11CCB7ADA6DF4627BF96FAC793B5B923 /* Sources */,
 				83EEC88F4AA55D080081B9B79F070415 /* Frameworks */,
-				3F2BD5CA6A9DCF8FBD0C5511DD23FECA /* Headers */,
+				573A93D20013A260F702269B2558B59B /* Headers */,
 			);
 			buildRules = (
 			);
@@ -376,16 +392,17 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		00E7A3CDF4CB44E424C0B254AD810CA7 /* Sources */ = {
+		11CCB7ADA6DF4627BF96FAC793B5B923 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B365B8FEB1D547EC1A4C1FBE09B7005F /* FirstViewController.m in Sources */,
-				DB96667954F239E1E98DC7BD7CBD880E /* FourViewController.m in Sources */,
-				36E3DBA9AF432A14D5057FA595F69597 /* ReplaceMe.m in Sources */,
-				5576C81B836A77326FE6AF8C8F46E919 /* SecondViewController.m in Sources */,
-				F3A81E622C26C823A1990F90807F6357 /* ThreeViewController.m in Sources */,
-				D3A96D5AB19D6C5E40F845D1784335D3 /* tmSecond-dummy.m in Sources */,
+				F618E0DBBD14251D347323DFEE32FA28 /* CTMediator.m in Sources */,
+				7E62D37CEA98813F014E05211AA4279F /* FirstViewController.m in Sources */,
+				D6AD4B0A2F2747DCFDC86D8E63D63481 /* FourViewController.m in Sources */,
+				243186D5D31CA7676F991E4B7B0AA4E4 /* ReplaceMe.m in Sources */,
+				20A6B21E913122885BC85C8874D55CE4 /* SecondViewController.m in Sources */,
+				A32707E394523828C11AF1431F2CF830 /* ThreeViewController.m in Sources */,
+				F1C4A0EFE52977DA446B96D1E730DEC6 /* tmSecond-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -521,7 +538,7 @@
 		};
 		4749C9A0CC1A19B8233081D522B64036 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78D44BDA9B3C1E9D2EEE4E130BDB5B43 /* tmSecond.xcconfig */;
+			baseConfigurationReference = C4D796EA800CE77D2FF87C0B81C003CD /* tmSecond.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -652,7 +669,7 @@
 		};
 		DBA32B39490505342A63532C6DE9E71B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78D44BDA9B3C1E9D2EEE4E130BDB5B43 /* tmSecond.xcconfig */;
+			baseConfigurationReference = C4D796EA800CE77D2FF87C0B81C003CD /* tmSecond.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
