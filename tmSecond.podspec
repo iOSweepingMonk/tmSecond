@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'tmSecond'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of tmSecond.'
 
 # This description is used to generate tags and improve search results.
@@ -30,11 +30,11 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  if ENV['CCDemoLib_Source'] || ENV['AllLib_Source']
-  s.source_files = 'tmSecond/Classes/**/*'
-  end
+  if ENV['tmSecond_Source'] || ENV['AllLib_Source']
+     s.source_files = 'tmSecond/Classes/**/*'
   else
-  s.vendored_frameworks = 'tmSecond/Products/secondBinary.framework'
+     s.source_files = 'tmSecond/Classes/**/*.h'
+     s.vendored_frameworks = 'tmSecond/Products/tmSecondBinary.framework'
   end
   # s.resource_bundles = {
   #   'tmSecond' => ['tmSecond/Assets/*.png']
