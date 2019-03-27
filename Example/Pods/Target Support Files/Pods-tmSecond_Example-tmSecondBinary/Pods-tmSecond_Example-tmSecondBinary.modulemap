@@ -1,0 +1,6 @@
+framework module Pods_tmSecond_Example_tmSecondBinary {
+  umbrella header "Pods-tmSecond_Example-tmSecondBinary-umbrella.h"
+
+  export *
+  module * { export * }
+}

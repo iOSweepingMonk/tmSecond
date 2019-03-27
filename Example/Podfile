@@ -3,11 +3,13 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'tmSecond_Example' do
-  pod 'tmSecond', :path => '../'
-
-  target 'tmSecond_Tests' do
-    inherit! :search_paths
-
+    pod 'tmSecond', :path => '../'
     
-  end
+    target 'tmSecond_Tests' do
+        inherit! :search_paths
+        
+        
+    end
+    target 'tmSecondBinary' do
+    end
 end

@@ -32,8 +32,6 @@ TODO: Add long description of the pod here.
 
   if ENV['tmSecond_Source'] || ENV['AllLib_Source']
      s.source_files = 'tmSecond/Classes/**/*'
-  end
-
   else
      # s.source_files = 'tmSecond/Classes/**/*.h'
      s.vendored_frameworks = 'tmSecond/Products/tmSecondBinary.framework'

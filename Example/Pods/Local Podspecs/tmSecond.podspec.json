@@ -1,6 +1,6 @@
 {
   "name": "tmSecond",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A short description of tmSecond.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/iOSweepingMonk/tmSecond",
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/iOSweepingMonk/tmSecond.git",
-    "tag": "0.1.0"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "tmSecond/Classes/**/*"
+  "vendored_frameworks": "tmSecond/Products/tmSecondBinary.framework"
 }
